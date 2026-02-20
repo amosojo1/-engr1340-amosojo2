@@ -1,4 +1,4 @@
-#Adding integers
+# Adding Integers
 
 Addition is the sum of two integers
 
